@@ -1,0 +1,78 @@
+[33mcommit a833572278cfd06ac9f9ef82c2cf985c619f852e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Nicolas Rocha <nrocha22@gmail.com>
+Date:   Sun Jun 14 08:01:24 2020 -0500
+
+    Cambio de tipo de letra
+
+[33mcommit 30cc3217980dcd3454631c4024b2baaaa0e8b940[m
+Merge: cd77fc8 cb6d7c3
+Author: Nicolas Rocha <nrocha22@gmail.com>
+Date:   Sun Jun 14 07:52:59 2020 -0500
+
+    Merge branch 'cabecera'
+
+[33mcommit cd77fc880fb73d5476c5232c5ab313e7ef96c0ef[m
+Author: Nicolas Rocha <nrocha22@gmail.com>
+Date:   Sun Jun 14 07:49:01 2020 -0500
+
+    parrafo extra
+
+[33mcommit 12094b2112024b3e026fa16bb1fbc41e98d086c4[m
+Author: Nicolas Rocha <nrocha22@gmail.com>
+Date:   Sun Jun 14 07:48:04 2020 -0500
+
+    Agregamos un parrafo adicional y mejor tipografia
+
+[33mcommit cb6d7c301de5203a02905adc85ccc9fbf88892bd[m[33m ([m[1;32mcabecera[m[33m)[m
+Author: Nicolas Rocha <nrocha22@gmail.com>
+Date:   Sun Jun 14 07:44:54 2020 -0500
+
+    finalizada la cabecera con design blue
+
+[33mcommit 9fd69f48fc4593fc9abbe4ad56a7f08f5e00ba77[m
+Author: Nicolas Rocha <nrocha22@gmail.com>
+Date:   Sat Jun 13 08:32:35 2020 -0500
+
+    Agregado cabecera
+
+[33mcommit ff72a103a524ae2df6e013098462ab4fdbe2ed34[m
+Author: Nicolas Rocha <nrocha22@gmail.com>
+Date:   Sat Jun 13 08:27:04 2020 -0500
+
+    Cambios al arhivo del blog
+
+[33mcommit 5e985c3375ce4dd764ef78a946c6155ce10eb99c[m
+Author: Nicolas Rocha <nrocha22@gmail.com>
+Date:   Fri Jun 12 17:47:13 2020 -0500
+
+    Cambio de maestria
+
+[33mcommit 180084aa64d902464b78196026a1b63382602bf8[m
+Author: Nicolas Rocha <nrocha22@gmail.com>
+Date:   Fri Jun 12 17:46:44 2020 -0500
+
+    Cambio de vida
+
+[33mcommit f40a845aa86ab3198ee5f6ccc9496d1dd8ecaaeb[m
+Author: Nicolas Rocha <nrocha22@gmail.com>
+Date:   Fri Jun 12 17:45:58 2020 -0500
+
+    Arranco mi proyecto real con HTML y CSS
+
+[33mcommit ca924aeae7c78a114b00ae7dade089f3a13391b8[m
+Author: Nicolas Rocha <nrocha22@gmail.com>
+Date:   Fri Jun 12 17:24:51 2020 -0500
+
+    Agregamos un cambio a su estatura
+
+[33mcommit 8e93fa61f27c06fc9494b0c9f480be1d0728f3fe[m
+Author: Nicolas Rocha <nrocha22@gmail.com>
+Date:   Fri Jun 12 16:42:28 2020 -0500
+
+    Cambios al archivo para agregar Bogota
+
+[33mcommit 3dee963d081d7b2469e46623cb31a1f0d3696873[m
+Author: Nicolas Rocha <nrocha22@gmail.com>
+Date:   Fri Jun 12 16:40:50 2020 -0500
+
+    Primer commit del archivo
